@@ -1,22 +1,22 @@
 ---
-fontfamily: helvet
-header-includes:
-  - \renewcommand{\familydefault}{\sfdefault}
-  - \usepackage[margin=1in]{geometry}
+format: pdf
 ---
 
 # Nathan E. Rutenbeck
-[nathan@stonesetfarm.com](nathan@stonesetfarm.com)
+
+261 River Rd. Brooklin ME 04616 
+
++1.207.266.7198 | nathan@stonesetfarm.com | [LinkedIn](https://www.linkedin.com/in/nathan-rutenbeck/) | [GitHub](https://github.com/nerutenbeck)
 
 ### About
 
-I'm a data scientist with two years experience recruiting, training, and leading a team in model and pipeline development and ten years experience building and deploying statistical and machine learning models in a production environment. 
+I'm a data scientist with ten years experience experience both in building and deploying machine learning models in a production environment, and in recruiting, training, and leading a team in model and pipeline development.  
 
-I'm passionate about translating business objectives into data analytics pipelines and incorporating data analytics into business strategy.
+I'm passionate about translating business objectives into data analytics pipelines and incorporating data analytics and uncertainty quantification into strategy and decision-making.
 
-My technical focus is on Bayesian learning, combining deep learning and Bayesian learning, and uncertainty and risk quantification.
+My technical expertise is in Bayesian learning, combining deep learning and Bayesian learning models, and uncertainty and risk quantification.
 
-My industry background is carbon offsets and forest ecology and management, but I'm interested in positions across a wide range of fields related to green technology, energy, ESG finance, climate change mitigation, environmental management, and AI ethics.
+My industry background is carbon offsets and forest ecology and management, but I'm interested in positions across a wide range of fields related to green technology, energy, ESG finance and econometrics, climate change mitigation, environmental management, and AI ethics.
 
 ## Experience
 
@@ -24,7 +24,7 @@ My industry background is carbon offsets and forest ecology and management, but 
 
 *Natural Capital Exchange (Jan 2018 - Dec 2022)*
 
-- Piloted core development of continental-scale models of forest structure and disturbance
+- Piloted core development of continental-scale hybrid Bayesian / deep learning models of forest structure and disturbance
 - Piloted core development of data engineering pipelines for model training and deployment
 - Helped recruit, hire, train, and lead a world class team of data scientists and data engineers
 - Served as senior team member guiding model and pipeline development to meet business goals
@@ -38,7 +38,7 @@ My industry background is carbon offsets and forest ecology and management, but 
 
 *Natural Capital Exchange (Jan 2014 - Nov 2015)*
 
-- Developed software and machine learning models to conduct remote-sensing assisted forest inventory
+- Led a team building software and tree- and forest-level machine learning models for remote-sensing assisted forest inventory projects
 - Built MLOps pipelines to deploy inventory models
 - Conducted remote sensing assisted forest inventory sample design, data collection, and processing
 - Executed project operations, report development, and client communications
@@ -47,18 +47,16 @@ My industry background is carbon offsets and forest ecology and management, but 
 
 ### Agriculture and forest management
 
+*Yale School Forests, New Haven CT (2007 - 2008)*
+
 *Stoneset Farm, Brooklin ME (2005 - 2012)*
 
-- Owner and operator of organic farm producing low-bush blueberries, mixed vegetables, cut flowers, pork, chicken, and lamb
-
 *Horsepower Farm, Penobscot ME (2004 - 2005)*
-
-- Teamster, logger, and farm worker
 
 
 ## Skills and Knowledge
 
-**statistical and machine learning, MLOps, remote sensing and earth observation, carbon markets, forest biometrics, forest ecology and management, agriculture, social and environmental ethics**
+**statistical and machine learning, MLOps, decision theory, remote sensing and earth observation, carbon markets, forest biometrics, forest ecology and management, agriculture, social and environmental ethics**
 
 ### Tools
 
