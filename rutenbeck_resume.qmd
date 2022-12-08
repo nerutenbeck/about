@@ -10,7 +10,7 @@ format: pdf
 
 ### About
 
-I'm a data scientist with ten years experience experience both in building and deploying machine learning models in a production environment, and in recruiting, training, and leading a team in model and pipeline development.  
+I'm a data scientist with ten years experience both in building and deploying machine learning models in a production environment, and in recruiting, training, and leading a team in model and pipeline development.  
 
 I'm passionate about translating business objectives into data analytics pipelines and incorporating data analytics and uncertainty quantification into strategy and decision-making.
 
