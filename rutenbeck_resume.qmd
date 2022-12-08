@@ -12,11 +12,11 @@ format: pdf
 
 I'm a data scientist with ten years experience experience both in building and deploying machine learning models in a production environment, and in recruiting, training, and leading a team in model and pipeline development.  
 
-I'm passionate about translating business objectives into data analytics pipelines and incorporating data analytics and uncertainty quantification into strategy and decision-making.
+I'm passionate about applying science and using modern statistical and machine learning tools and techniques to tackle today's most pressing environmental and natural resource management problems.
 
 My technical expertise is in Bayesian learning, combining deep learning and Bayesian learning models, and uncertainty and risk quantification.
 
-My industry background is carbon offsets and forest ecology and management, but I'm interested in positions across a wide range of fields related to green technology, energy, ESG finance and econometrics, climate change mitigation, environmental management, and AI ethics.
+My industry background is carbon offsets and forest ecology and management, but I have a wide array of research interests related to green technology, energy, ESG finance and econometrics, climate change mitigation, environmental management, and AI ethics.
 
 ## Experience
 
