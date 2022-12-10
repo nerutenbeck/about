@@ -8,16 +8,6 @@ format: pdf
 
 +1.207.266.7198 | nathan@stonesetfarm.com | [LinkedIn](https://www.linkedin.com/in/nathan-rutenbeck/) | [GitHub](https://github.com/nerutenbeck)
 
-### About
-
-I'm a data scientist with ten years experience both in building and deploying machine learning models in a production environment, and in recruiting, training, and leading a team in model and pipeline development.  
-
-I'm passionate about translating business objectives into data analytics pipelines and incorporating data analytics and uncertainty quantification into strategy and decision-making.
-
-My technical expertise is in Bayesian learning, combining deep learning and Bayesian learning models, and uncertainty and risk quantification.
-
-My industry background is carbon offsets and forest ecology and management, but I'm interested in positions across a wide range of fields related to green technology, energy, ESG finance and econometrics, climate change mitigation, environmental management, and AI ethics.
-
 ## Experience
 
 ### Data science
